@@ -17,3 +17,5 @@ git config —-global user.email “yestay90@gmail.com”
 git config —-list - shows all config
 
 we added new text after new commit 
+
+we added new text , I hope this is the last one
