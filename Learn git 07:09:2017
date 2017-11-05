@@ -1,0 +1,17 @@
+Learn git 07/09/2017
+
+git clone - copy project by giving url 
+
+git push origin master - origin - name of remote branch , master - local branch 
+
+git branch - show all local branches 
+git branch -a - show all remote branches 
+
+git checkout __nameofbranch__ 
+git checkout -b - create new branch locally 
+git pull origin dev - pull branch with updates from server 
+
+// add username password
+git config —-global user.name “Yestay Muratov”
+git config —-global user.email “yestay90@gmail.com” 
+git config —-list - shows all config
